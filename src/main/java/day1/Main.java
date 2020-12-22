@@ -51,6 +51,7 @@ public class Main {
 		}
 
 		//Part 2
+
 		//Reset foundPair value
 		foundPair = false;
 		for (int i : intArray) {
